@@ -1,8 +1,7 @@
 
-                        BIG MART SALES PREDICTION
+# BIG MART SALES PREDICTION
 
-
-
+![images](https://github.com/Ganesh-xvi/BIG-MART-SALES-PREDICTION-USING-OLS-METHOD/assets/134574667/cecb15fe-9db8-4bcb-9263-0971fb710169)
 
 ##  Problem Statement
 
@@ -64,6 +63,7 @@ Scikit-learn
 statsmodels
 
 scipy.stats
+
 ## Project Pipeline
 
 Data collection
@@ -73,6 +73,11 @@ Data prepration
 Model Building
 
 Evaluavate Model
+
+## Conclusion
+
+The development of a machine learning model for sales prediction at BigMart stores is a forward-looking approach to retail management. It aligns with the industry's shift toward data-driven strategies and provides a foundation for optimizing inventory management, enhancing sales strategies, and ultimately improving profitability. The success of this project offers a glimpse into the potential of predictive analytics in retail and the benefits it can bring to both businesses and customers.
+
 ## Usage
 
 To use the code, follow these steps:
@@ -85,10 +90,9 @@ To use the code, follow these steps:
 
 4.Adjust parameters or features as needed to improve the model's performance.
 
-## Conclusion
 
-The development of a machine learning model for sales prediction at BigMart stores is a forward-looking approach to retail management. It aligns with the industry's shift toward data-driven strategies and provides a foundation for optimizing inventory management, enhancing sales strategies, and ultimately improving profitability. The success of this project offers a glimpse into the potential of predictive analytics in retail and the benefits it can bring to both businesses and customers.
 ## Dataset Link
 
 (Shape of data - Rows:1048575 and columns:17)
+
 https://www.kaggle.com/datasets/amandb/big-mart-sales-analysis/data
